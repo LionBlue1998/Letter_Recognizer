@@ -5,6 +5,9 @@
 
 #### En segundo lugar, hemos configurado la red de entrenamiento que se entrenará para poder clasificar para ello implementamos distintos números de neuronas de entrada y un número de capas ocultas que mejor resultado genere sin llegar a padecer overfitting.  Como neuronas en la capa de salida tenemos 10, tantas como salidas posibles pueda clasificar la red. Así mismo, empleamos las opciones de kernel y max pooling para aumentar el grado de detalle que puede analizar y percibir la neurona. 
 
-##### Tras el entrenamiento y validación, se adjuntan estadísticas sobre el grado de acuraccy, loss, val_acuraccy y val_loss de los mismos.
+#### Tras el entrenamiento y validación, se adjuntan estadísticas sobre el grado de acuraccy, loss, val_acuraccy y val_loss de los mismos.
 
-##### Finalmente, se realiza una pequeña evaluación del entrenamiento mediante predicciones.
+#### Finalmente, se realiza una pequeña evaluación del entrenamiento mediante predicciones.
+
+##### Desarrollado por Mahalia Yánez Monzón y Victor Alejandro Santana Cardona.
+##### 13/06/2021
